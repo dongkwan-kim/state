@@ -12,3 +12,8 @@ notebooks/
 *.slurm
 temp
 wandb/
+
+*.h5ad
+*.h5
+*.vcc
+log_*
